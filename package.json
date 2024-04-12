@@ -1,0 +1,12 @@
+{
+    "name": "com.flashbulb.samtestpackage",
+    "version": "1.0.0",
+    "displayName": "Sam Test Package",
+    "description": "This is an example package",
+    "unity": "2021.1",
+    "author": {
+      "name": "Sam",
+      "email": "samuel@flashbulbgames.com",
+      "url": "https://www.flashbulbgames.com"
+    }
+  }
